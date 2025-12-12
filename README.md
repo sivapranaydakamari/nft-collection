@@ -20,6 +20,7 @@ The project uses **Solidity 0.8.19**, **Hardhat**, and **OpenZeppelin contracts*
 
 ## Project Structure
 
+```bash
 project-root/
 ├─ contracts/
 │ └─ NftCollection.sol # Main ERC-721 NFT smart contract
@@ -29,6 +30,7 @@ project-root/
 ├─ hardhat.config.js # Hardhat configuration
 ├─ Dockerfile # Dockerfile for containerized build & testing
 └─ .dockerignore # Optional Docker ignore file
+```
 
 ---
 
